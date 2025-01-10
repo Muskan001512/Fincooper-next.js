@@ -1,0 +1,5 @@
+{
+  "/customer-list/page": "app/customer-list/page.js",
+  "/page": "app/page.js",
+  "/create-customer/page": "app/create-customer/page.js"
+}
